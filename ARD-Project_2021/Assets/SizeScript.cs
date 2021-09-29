@@ -17,6 +17,6 @@ public class SizeScript : MonoBehaviour
     // Update is called once per frame
     void Update(){
         //float x = target.transform.localScale.x * Width;
-        target.transform.localScale = new Vector3(0 * Width, 8, 40);
+        target.transform.localScale = new Vector3(0 + Width, 8, 40);
     }
 }
