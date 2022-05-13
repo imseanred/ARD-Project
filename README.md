@@ -8,7 +8,7 @@ or original content protected under the CC0-1.0 Liscense.
 
 The current project is meant as a prototype simulating a 3D Desktop application
 currently named "ARD". ARD is a home design improvement app, which purpose is to allow
-the user define the width and length of a 3d room and place funiture inside the room
+the user define the width and length of a 3d room and then place funiture inside the room
 to test out different arangements in the room. Saving time and space,
 with the goal of creating the best quality of life experience in the limited space an apartment has.
 
